@@ -41,7 +41,7 @@ ____
 Type the following commands sequentially:<br>
 `systemctl stop xvic`<br>
 `rm -rf .xvic/blocks/ .xvic/chainstate/ .xvic/sporks/ .xvic/zerocoin/`<br>
-`wget https://github.com/XVictus-project/bootstrap/releases/download/bootstrap-13-nov-2019/bootstrap.zip`<br>
+`wget https://github.com/XVictus-project/bootstrap/releases/download/bootstrap/bootstrap.zip`<br>
 `unzip bootstrap.zip -d .xvic/`<br>
 `systemctl start xvic`<br>
 
