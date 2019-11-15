@@ -3,9 +3,12 @@
 ____
 # :grey_question: HOW TO
 
+:arrow_right: <a href="#windows">for Windows</a><br>
 :arrow_right: <a href="#linux">for Linux</a>
 
-This is an archive with blockchain folders for quick synchronization.<br>
+____
+# For Windows
+<a name="windows"></a>This is an archive with blockchain folders for quick synchronization.<br>
 In square brackets you will see the date of creation of the archive.
 
 You need to close the wallet and from the folder `%appdata%\XVIC` delete the folders of the same name, which are in the archive.<br>
