@@ -9,3 +9,8 @@ The script is suitable for Ubuntu 16 and Ubuntu 18.<br>
 `./xvicm.sh`<br>
 
 And follow the on-screen instructions :computer:
+
+After successful completion, type:<br>
+`rm xvicm.sh`
+
+If you have any problems, please [contact us](https://discord.gg/6yqqZzs).
