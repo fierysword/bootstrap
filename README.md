@@ -1,5 +1,6 @@
 # MN-SetupScript
-***Quick setup***
+***Quick setup***<br>
+The script is suitable for Ubuntu 16 and Ubuntu 18.<br>
 
 :point_down: Type the following commands sequentially:<br>
 
